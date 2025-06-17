@@ -1,10 +1,12 @@
+// App.tsx
 import './App.css'
+import AdminAttendancePage from './page/AdminAttendancePage'
 
 function App() {
 
   return (
     <>
-      성훈
+      <AdminAttendancePage />
     </>
   )
 }
